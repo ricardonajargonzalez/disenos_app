@@ -1,12 +1,13 @@
 # Diseños header en flutter
 
-A new Flutter project.
+Proyecto en flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainter para jugar con diseños con cuervas.
 
-A few resources to get you started if this is your first Flutter project:
+
+https://github.com/ricardonajargonzalez/disenos_app/tree/master/lib/assets/header1.png
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)

@@ -309,4 +309,61 @@ class _HeaderCurvoWavesPainter extends CustomPainter{
 
 }
 
+// cursa waves invertido ~
+class HeaderCurvoWavesInvertido extends StatelessWidget {
+  const HeaderCurvoWavesInvertido({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: double.infinity,
+      height: double.infinity,
+      child: CustomPaint(
+       painter: _HeaderCurvoWavesInvertidoPainter(),  
+      ),
+    );
+  }
+}
+
+class _HeaderCurvoWavesInvertidoPainter extends CustomPainter{
+  @override
+  void paint(Canvas canvas, Size size) {
+
+    //propiedades
+    final paint = Paint();
+    paint.color = const Color(0xff615AAB);
+    paint.style = PaintingStyle.fill;
+    paint.strokeWidth = 20;
+
+  
+    //Dibuajar con path y lapis
+    final path = Path();
+   path.moveTo(0, size.height );
+
+    // path.lineTo(0, 0); //este no es necesario
+    path.lineTo(0, size.height * 0.25);
+
+    //realizar media curva 
+    path.quadraticBezierTo(size.width * 0.25, size.height * 0.30, size.width * 0.5, size.height * 0.25);
+
+    //realizar media curva invertida
+    path.quadraticBezierTo(size.width * 0.75, size.height * 0.20, size.width, size.height * 0.25);
+
+     path.lineTo(size.width, size.height);
+  
+
+    //aplicamos lo dibujado
+    canvas.drawPath(path, paint);
+
+  }
+
+  @override
+  bool shouldRepaint(covariant CustomPainter oldDelegate) {
+    return true;
+  }
+
+}
+
+
+
 

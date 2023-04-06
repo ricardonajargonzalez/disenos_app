@@ -8,20 +8,9 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
 
 
 
-
-
-| <picture>
-  <img style="width:50px;" src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
-
-</picture>    | <picture>
-   <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header2.png">
-</picture>   | Examples      |
-
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<picture>
+  <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/c1.png">
+</picture>
+<picture>
+   <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/c2.png">
+</picture> 

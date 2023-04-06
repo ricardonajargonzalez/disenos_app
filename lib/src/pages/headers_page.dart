@@ -13,7 +13,8 @@ class HeadersPage extends StatelessWidget {
     // return const HeaderPico();
     // return const HeaderCurvo();
     // return const HeaderCurvoInvertido();
-    return const HeaderCurvoWaves();
+    // return const HeaderCurvoWaves();
+    return const HeaderCurvoWavesInvertido();
 
   }
 }

@@ -12,6 +12,10 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
    <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header2.png">
 </picture>
 
+<picture>
+   <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header2.png">
+</picture>
+
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

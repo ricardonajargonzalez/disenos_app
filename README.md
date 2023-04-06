@@ -8,8 +8,7 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
-  <img alt="" src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
+
 </picture>
 
 

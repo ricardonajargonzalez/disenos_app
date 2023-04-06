@@ -11,7 +11,7 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
 
 
 | <picture>
-  <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
+  <img style="width:50px;" src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
 
 </picture>    | <picture>
    <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header2.png">

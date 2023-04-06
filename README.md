@@ -7,7 +7,9 @@ Proyecto en flutter.
 En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainter para jugar con diseños con cuervas.
 
 <picture>
-  <img style="width:100px;" src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
+  <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header1.png">
+
+   <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/header2.png">
 </picture>
 
 

@@ -2,10 +2,10 @@
 
 Proyecto en flutter.
 
-## Getting Started
-
 En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainter para jugar con diseños con cuervas.
 
+
+## Diseños
 
 
 <picture>
@@ -14,3 +14,8 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
 <picture>
    <img src="https://raw.githubusercontent.com/ricardonajargonzalez/disenos_app/master/lib/assets/c2.png">
 </picture> 
+
+
+## Documentacion
+[documentacion]!(https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
+

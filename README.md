@@ -16,5 +16,5 @@ En esta aplicacion se encuentra cinco diseños de header utilizando CustonPainte
 
 
 ## Documentacion
-link [documentacion](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
+Custom Painter [Documentacion Custom Painter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
 
